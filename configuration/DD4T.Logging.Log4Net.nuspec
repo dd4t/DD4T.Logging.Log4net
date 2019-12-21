@@ -2,7 +2,7 @@
 <package xmlns:nuget="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>DD4T.Logging.Log4Net</id>
-    <version>1.0.0.0-build20160601222839</version>
+    <version></version>
     <authors>DD4T Community</authors>
     <owners>DD4T Community</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -11,9 +11,8 @@
     </releaseNotes>
     <tags>SDLTridion Tridion SDL SDLWeb DD4T DD4T2 Logging Log4Net</tags>
     <dependencies>
-      <dependency id="DD4T.Core" version="2.2.2" />
+      <dependency id="DD4T.Core" version="2.5" />
       <dependency id="log4net" version="2.0.8" />
-      <dependency id="WebActivatorEx" version="2.1.0" />
     </dependencies>
   </metadata>
 </package>
