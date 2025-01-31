@@ -5,6 +5,10 @@
 # DD4T.Logging.Log4Net
 Lets DD4T log with Log4Net
 
+## Release 2.6
+- Upgraded log4net to 3.0.3
+- Upgraded DD4T Core and Model to 2.6.1
+
 ## Release 2.5
 
 - Removed incorrect reference in the nuspec to WebActivatorEx
