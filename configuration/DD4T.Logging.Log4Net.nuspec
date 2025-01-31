@@ -11,8 +11,8 @@
     </releaseNotes>
     <tags>SDLTridion Tridion SDL SDLWeb DD4T DD4T2 Logging Log4Net</tags>
     <dependencies>
-      <dependency id="DD4T.Core" version="2.5" />
-      <dependency id="log4net" version="2.0.8" />
+      <dependency id="DD4T.Core" version="2.6.1" />
+      <dependency id="log4net" version="3.0.3" />
     </dependencies>
   </metadata>
 </package>
